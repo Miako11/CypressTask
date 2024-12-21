@@ -1,0 +1,26 @@
+{
+    "name": "Marrie",
+    "wname": "Maro",
+    "email": "marriemari0@gmail.com",
+    "wemail": "maro@gmail.com",
+    "password": "marriemari0",
+    "dob": {
+      "day": "11",
+      "month": "April",
+      "year": "1997"
+    },
+    "address": {
+      "first_name": "Marrie",
+      "last_name": "Mari",
+      "company": "Company",
+      "address1": "11",
+      "address2": "11",
+      "country": "United States",
+      "state": "South Carolina",
+      "city": "Carolina",
+      "zipcode": "11",
+      "mobile_number": "1111"
+    }
+
+  }
+  
